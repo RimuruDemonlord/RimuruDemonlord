@@ -1,6 +1,6 @@
 ## Kon'nichiwa I'm Xelcius <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Whats Up">
 
-![](tumblr_2b6bbabfa28574aae3d447b39225693c_bbdf4400_500.gif)
+![](solo-leveling.gif)
 
 ### About Me:
 
