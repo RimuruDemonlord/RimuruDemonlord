@@ -7,9 +7,9 @@
 <i>
   Name: Ansh Sharma
   
-  - Nationality: Indian.
+  Nationality: Indian.
   
-  - Currently in Rajasthan, India.
+  Currently in Rajasthan, India.
   
   ![ Xelcius ](https://github-readme-stats.vercel.app/api/top-langs/?username=RimuruDemonlord&theme=blue-Red)
   
