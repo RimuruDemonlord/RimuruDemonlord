@@ -4,12 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+Kaizuryu+Network%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/xelcius"><img src="https://telegra.ph/file/62bda1ccc1a9cf5228f98.jpg"
+  <a href="https://t.me/xelcius"><img src="https://telegra.ph/file/62bda1ccc1a9cf5228f98.jpg" alt="xelcius"></a>
   
   
   
-  alt="xelcius"></a>
-<a href="https://telegram.me/xelcius">
+  <a href="https://telegram.me/xelcius">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
